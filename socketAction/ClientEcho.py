@@ -19,8 +19,3 @@ while True:
     #接收消息
     data=socketObj.recv(1024)
     print('对方: '+data)
-#
-#
-#
-#
-#
